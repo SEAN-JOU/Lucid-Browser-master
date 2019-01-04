@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion '28.0.3'
+    useLibrary 'org.apache.http.legacy'
+
+    defaultConfig {
+        applicationId "com.powerpoint45.lucidbrowser"
+        minSdkVersion 11
+        targetSdkVersion 22
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            shrinkResources false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    lintOptions {
+        disable 'MissingTranslation'
+    }
+}
+
+dependencies {
+    implementation 'com.android.support:appcompat-v7:25.1.1'
+    implementation 'com.google.android.gms:play-services-ads:10.0.1'
+    implementation 'com.github.amlcurran.showcaseview:library:5.4.3'
+}

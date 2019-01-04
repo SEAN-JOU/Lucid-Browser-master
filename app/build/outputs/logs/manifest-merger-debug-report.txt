@@ -1,0 +1,298 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:2:1-106:12
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\a4eca92cef770a871646221fdea30880\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-ads-10.0.1.aar\e255f078da5089a4c100f01e84095626\AndroidManifest.xml:16:1-18:12
+MERGED from [com.github.amlcurran.showcaseview:library:5.4.3] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\library-5.4.3.aar\610d86b7a56ca8eb139cb1a3d1b74ec2\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\788ccaa40a41d6f6231d53cb9b9f4da3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\9fae2241bf77ab3cf485e6ba4a55ed02\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\45727e03cf8a45ed57b0f47607c12d85\AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.0.1.aar\0ac1541b7bb907b237d4dbde4502f3e9\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-base-10.0.1.aar\fdb126cf19c2d4ff8ef513fcef74551c\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.0.1.aar\dd22061da918084ce8c5a2296ad1419b\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.0.1.aar\438319d2d14ac25582461bbf02d8905c\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.0.1.aar\3ee3bc0d97d7a5886237bb0651250f09\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\924ffc312ee73d13dedd539a1e061692\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\ce9d87fae5a8137b232cc39610bff25f\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\008279b987b5762c5a0def626ebb1b7e\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\33568764df3e40d0410de33a5b148fb3\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\7892845728d0538519fd332d8dfacdfe\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\09badf1124321f9f2e169a5efc13a3a8\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:2:1-106:12
+	package
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:5:5-31
+		INJECTED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:7:5-47
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\a4eca92cef770a871646221fdea30880\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\a4eca92cef770a871646221fdea30880\AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-ads-10.0.1.aar\e255f078da5089a4c100f01e84095626\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-ads-10.0.1.aar\e255f078da5089a4c100f01e84095626\AndroidManifest.xml:17:5-42
+MERGED from [com.github.amlcurran.showcaseview:library:5.4.3] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\library-5.4.3.aar\610d86b7a56ca8eb139cb1a3d1b74ec2\AndroidManifest.xml:22:5-24:41
+MERGED from [com.github.amlcurran.showcaseview:library:5.4.3] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\library-5.4.3.aar\610d86b7a56ca8eb139cb1a3d1b74ec2\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\788ccaa40a41d6f6231d53cb9b9f4da3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\788ccaa40a41d6f6231d53cb9b9f4da3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\9fae2241bf77ab3cf485e6ba4a55ed02\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\9fae2241bf77ab3cf485e6ba4a55ed02\AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\45727e03cf8a45ed57b0f47607c12d85\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\45727e03cf8a45ed57b0f47607c12d85\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.0.1.aar\0ac1541b7bb907b237d4dbde4502f3e9\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.0.1.aar\0ac1541b7bb907b237d4dbde4502f3e9\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-base-10.0.1.aar\fdb126cf19c2d4ff8ef513fcef74551c\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-base-10.0.1.aar\fdb126cf19c2d4ff8ef513fcef74551c\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.0.1.aar\dd22061da918084ce8c5a2296ad1419b\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.0.1.aar\dd22061da918084ce8c5a2296ad1419b\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.0.1.aar\438319d2d14ac25582461bbf02d8905c\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.0.1.aar\438319d2d14ac25582461bbf02d8905c\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.0.1.aar\3ee3bc0d97d7a5886237bb0651250f09\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.0.1.aar\3ee3bc0d97d7a5886237bb0651250f09\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\924ffc312ee73d13dedd539a1e061692\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\924ffc312ee73d13dedd539a1e061692\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\ce9d87fae5a8137b232cc39610bff25f\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\ce9d87fae5a8137b232cc39610bff25f\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\008279b987b5762c5a0def626ebb1b7e\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\008279b987b5762c5a0def626ebb1b7e\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\33568764df3e40d0410de33a5b148fb3\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\33568764df3e40d0410de33a5b148fb3\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\7892845728d0538519fd332d8dfacdfe\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\7892845728d0538519fd332d8dfacdfe\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\09badf1124321f9f2e169a5efc13a3a8\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\09badf1124321f9f2e169a5efc13a3a8\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:7:5-47
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\a4eca92cef770a871646221fdea30880\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:7:15-44
+		INJECTED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:7:5-47
+		INJECTED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:9:4-77
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\45727e03cf8a45ed57b0f47607c12d85\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\45727e03cf8a45ed57b0f47607c12d85\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:9:21-75
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:10:4-65
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\45727e03cf8a45ed57b0f47607c12d85\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\45727e03cf8a45ed57b0f47607c12d85\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:10:21-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:11:4-79
+	android:name
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:11:21-77
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:12:4-79
+	android:name
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:12:21-76
+uses-permission#com.android.browser.permission.READ_HISTORY_BOOKMARKS
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:13:5-93
+	android:name
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:13:22-90
+application
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:15:5-104:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\a4eca92cef770a871646221fdea30880\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\a4eca92cef770a871646221fdea30880\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\788ccaa40a41d6f6231d53cb9b9f4da3\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\788ccaa40a41d6f6231d53cb9b9f4da3\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\9fae2241bf77ab3cf485e6ba4a55ed02\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\9fae2241bf77ab3cf485e6ba4a55ed02\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\45727e03cf8a45ed57b0f47607c12d85\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\45727e03cf8a45ed57b0f47607c12d85\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.0.1.aar\0ac1541b7bb907b237d4dbde4502f3e9\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.0.1.aar\0ac1541b7bb907b237d4dbde4502f3e9\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-base-10.0.1.aar\fdb126cf19c2d4ff8ef513fcef74551c\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-base-10.0.1.aar\fdb126cf19c2d4ff8ef513fcef74551c\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.0.1.aar\dd22061da918084ce8c5a2296ad1419b\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.0.1.aar\dd22061da918084ce8c5a2296ad1419b\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.0.1.aar\438319d2d14ac25582461bbf02d8905c\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.0.1.aar\438319d2d14ac25582461bbf02d8905c\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.0.1.aar\3ee3bc0d97d7a5886237bb0651250f09\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.0.1.aar\3ee3bc0d97d7a5886237bb0651250f09\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\924ffc312ee73d13dedd539a1e061692\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\924ffc312ee73d13dedd539a1e061692\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\ce9d87fae5a8137b232cc39610bff25f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\ce9d87fae5a8137b232cc39610bff25f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\008279b987b5762c5a0def626ebb1b7e\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\008279b987b5762c5a0def626ebb1b7e\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\33568764df3e40d0410de33a5b148fb3\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\33568764df3e40d0410de33a5b148fb3\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\7892845728d0538519fd332d8dfacdfe\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\7892845728d0538519fd332d8dfacdfe\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\09badf1124321f9f2e169a5efc13a3a8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\09badf1124321f9f2e169a5efc13a3a8\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:19:9-38
+	android:hardwareAccelerated
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:17:9-43
+	android:icon
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:18:9-45
+	android:allowBackup
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:16:9-35
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:22:9-23:71
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.0.1.aar\3ee3bc0d97d7a5886237bb0651250f09\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.0.1.aar\3ee3bc0d97d7a5886237bb0651250f09\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:23:16-69
+	android:name
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:22:20-65
+activity#com.powerpoint45.lucidbrowser.MainActivity
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:24:9-52:20
+	android:stateNotNeeded
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:29:13-42
+	android:label
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:25:13-42
+	android:launchMode
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:28:13-44
+	android:configChanges
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:27:13-74
+	android:theme
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:30:13-44
+	android:name
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:26:13-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:33:27-74
+intent-filter#action:name:android.intent.action.WEB_SEARCH+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:+data:scheme:http+data:scheme:https
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:36:13-43:29
+action#android.intent.action.WEB_SEARCH
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:37:17-75
+	android:name
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:37:25-72
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:39:27-75
+data
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:40:17-43
+	android:scheme
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:40:23-40
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:http+data:scheme:https
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:45:13-51:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:46:17-69
+	android:name
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:46:25-66
+activity#com.powerpoint45.lucidbrowser.BookmarksActivity
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:56:9-65:20
+	android:label
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:57:13-46
+	android:configChanges
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:59:13-74
+	android:theme
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:60:13-52
+	android:name
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:58:13-75
+intent-filter#action:name:com.powerpoint45.lucidbrowser.BookmarksActivity+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:61:13-64:29
+action#com.powerpoint45.lucidbrowser.BookmarksActivity
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:62:17-90
+	android:name
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:62:25-87
+activity#com.powerpoint45.lucidbrowser.SettingsV2
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:67:9-76:20
+	android:label
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:68:13-50
+	android:configChanges
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:71:13-74
+	android:theme
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:69:13-47
+	android:name
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:70:13-68
+intent-filter#action:name:com.powerpoint45.lucidbrowser.SettingsV2+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:72:13-75:29
+action#com.powerpoint45.lucidbrowser.SettingsV2
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:73:17-83
+	android:name
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:73:25-80
+activity#com.powerpoint45.lucidbrowser.ImportBookmarksActivity
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:78:9-87:20
+	android:label
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:79:13-62
+	android:configChanges
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:82:13-74
+	android:theme
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:80:13-47
+	android:name
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:81:13-81
+intent-filter#action:name:com.powerpoint45.lucidbrowser.ImportBookmarksActivity+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:83:13-86:29
+action#com.powerpoint45.lucidbrowser.ImportBookmarksActivity
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:84:17-96
+	android:name
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:84:25-93
+activity#com.powerpoint45.lucidbrowser.OpenFileActivity
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:89:9-98:20
+	android:label
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:90:13-53
+	android:configChanges
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:93:13-74
+	android:theme
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:91:13-47
+	android:name
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:92:13-74
+intent-filter#action:name:com.powerpoint45.lucidbrowser.OpenFileActivity+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:94:13-97:29
+action#com.powerpoint45.lucidbrowser.OpenFileActivity
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:95:17-89
+	android:name
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:95:25-86
+activity#com.google.android.gms.ads.AdActivity
+ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:101:9-102:125
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\45727e03cf8a45ed57b0f47607c12d85\AndroidManifest.xml:25:9-232
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\45727e03cf8a45ed57b0f47607c12d85\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:102:14-123
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\45727e03cf8a45ed57b0f47607c12d85\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from C:\Users\NB004\Downloads\Lucid-Browser-master\Lucid-Browser-master\app\src\main\AndroidManifest.xml:101:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\45727e03cf8a45ed57b0f47607c12d85\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\45727e03cf8a45ed57b0f47607c12d85\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\45727e03cf8a45ed57b0f47607c12d85\AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-base-10.0.1.aar\fdb126cf19c2d4ff8ef513fcef74551c\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-base-10.0.1.aar\fdb126cf19c2d4ff8ef513fcef74551c\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-base-10.0.1.aar\fdb126cf19c2d4ff8ef513fcef74551c\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\NB004\.gradle\caches\transforms-1\files-1.1\play-services-base-10.0.1.aar\fdb126cf19c2d4ff8ef513fcef74551c\AndroidManifest.xml:19:19-85
